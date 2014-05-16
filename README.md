@@ -1,4 +1,4 @@
-This is an unofficial mirror of kernel sources from Amlogic official OpenLinux site http://openlinux.amlogic.com:8000/download/ARM
+This is an unofficial mirror of uboot sources from Amlogic official OpenLinux site http://openlinux.amlogic.com:8000/download/ARM
 
 
 The sources were uploaded here to mirror the tars from Amlogic site as git orphan branches for easy access.
